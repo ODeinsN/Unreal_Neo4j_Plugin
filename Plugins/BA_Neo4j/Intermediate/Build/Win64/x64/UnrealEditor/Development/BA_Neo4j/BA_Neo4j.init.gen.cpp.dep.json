@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealengine\\projects\\ba_project\\plugins\\unreal_neo4j_plugin\\plugins\\ba_neo4j\\intermediate\\build\\win64\\unrealeditor\\inc\\ba_neo4j\\uht\\ba_neo4j.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengine\\projects\\ba_project\\intermediate\\build\\win64\\x64\\ba_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealengine\\projects\\ba_project\\plugins\\unreal_neo4j_plugin\\plugins\\ba_neo4j\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ba_neo4j\\definitions.ba_neo4j.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

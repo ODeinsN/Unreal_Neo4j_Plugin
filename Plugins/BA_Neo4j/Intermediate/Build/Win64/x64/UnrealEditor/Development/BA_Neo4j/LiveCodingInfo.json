@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BA_Neo4j.cpp.obj": [
+			"BA_Neo4j.init.gen.cpp.obj",
+			"Neo4j_Connector.gen.cpp.obj",
+			"BA_Neo4j.cpp.obj",
+			"Neo4j_Connector.cpp.obj"
+		]
+	}
+}

@@ -38,6 +38,8 @@ public class BA_Neo4j : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"HTTP", 
+				"EnhancedInput"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

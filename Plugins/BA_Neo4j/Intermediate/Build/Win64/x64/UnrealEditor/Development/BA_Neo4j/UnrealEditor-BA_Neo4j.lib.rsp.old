@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BA_Neo4j.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngine\Projects\BA_Project\Intermediate\Build\Win64\x64\BA_ProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UnrealEngine\Projects\BA_Project\Plugins\Unreal_Neo4j_Plugin\Plugins\BA_Neo4j\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_Neo4j\BA_Neo4j.cpp.obj"
+"D:\UnrealEngine\Projects\BA_Project\Plugins\Unreal_Neo4j_Plugin\Plugins\BA_Neo4j\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_Neo4j\Neo4j_Connector.cpp.obj"
+"D:\UnrealEngine\Projects\BA_Project\Plugins\Unreal_Neo4j_Plugin\Plugins\BA_Neo4j\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_Neo4j\BA_Neo4j.init.gen.cpp.obj"
+"D:\UnrealEngine\Projects\BA_Project\Plugins\Unreal_Neo4j_Plugin\Plugins\BA_Neo4j\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_Neo4j\Neo4j_Connector.gen.cpp.obj"
+"D:\UnrealEngine\Projects\BA_Project\Plugins\Unreal_Neo4j_Plugin\Plugins\BA_Neo4j\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_Neo4j\Default.rc2.res"
+/OUT:"D:\UnrealEngine\Projects\BA_Project\Plugins\Unreal_Neo4j_Plugin\Plugins\BA_Neo4j\Intermediate\Build\Win64\x64\UnrealEditor\Development\BA_Neo4j\UnrealEditor-BA_Neo4j.lib"
